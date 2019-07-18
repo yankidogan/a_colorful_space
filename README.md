@@ -11,6 +11,7 @@ Keep Going:  When the game is over, players can keep going from where they left,
 Shoot Any:    For the current wave, players can shoot any orb to increase their scores, regardless of the specified color that needs to be obtained.
 
 Screenshots:
+
 https://imgur.com/nDkSQm4
 
 https://imgur.com/lrC8lhU
